@@ -4,9 +4,11 @@
 
 ---
 
-Skills:  JS / HTML / CSS / SASS / WEBPACK / GIT 
+Skills:  ![Описание](ссылка)JS / HTML / CSS / SASS / WEBPACK / GIT 
+
 [![codewars](https://www.codewars.com/users/HabKV/badges/small)](https://www.codewars.com/users/HabKV) 
 
 ---
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sinevit)  
 
