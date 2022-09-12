@@ -4,4 +4,4 @@
 
 [![codewars](https://www.codewars.com/users/HabKV/badges/small)](https://www.codewars.com/users/HabKV) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinevit)](https://github.com/sinevit/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sinevit&theme=solarized_dark)
