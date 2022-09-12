@@ -4,4 +4,6 @@
 
 [![codewars](https://www.codewars.com/users/HabKV/badges/small)](https://www.codewars.com/users/HabKV) 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinevit&layout=compact)](https://github.com/sinevit/github-readme-stats)
