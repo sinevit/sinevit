@@ -2,8 +2,11 @@
 
 ### I’m studying Frontend / JS course at [Rolling Scopes School](https://rs.school/js/) 
 
+---
+
+Skills:  JS / HTML / CSS / SASS / WEBPACK / GIT 
 [![codewars](https://www.codewars.com/users/HabKV/badges/small)](https://www.codewars.com/users/HabKV) 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+---
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sinevit)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinevit&layout=compact)](https://github.com/sinevit/github-readme-stats)
