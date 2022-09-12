@@ -4,7 +4,7 @@
 
 ---
 
-Skills:  ![JS](https://github.com/sinevit/sinevit/blob/main/assets/javascript.svg){ width=10% } / ![HTML](https://github.com/sinevit/sinevit/blob/main/assets/html5.svg){ width=10% } / ![CSS](https://github.com/sinevit/sinevit/blob/main/assets/css3.svg){ width=10% } / ![SASS](https://github.com/sinevit/sinevit/blob/main/assets/sass.svg){ width=10% } / ![WEBPACK](https://github.com/sinevit/sinevit/blob/main/assets/wenpack.svg){ width=10% } / ![GIT](https://github.com/sinevit/sinevit/blob/main/assets/git.svg) { width=10% }
+Skills:  JS / CSS / SASS / HTML / WEBPACK / GIT
 
 [![codewars](https://www.codewars.com/users/HabKV/badges/small)](https://www.codewars.com/users/HabKV) 
 
