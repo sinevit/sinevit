@@ -4,7 +4,7 @@
 
 ---
 
-Skills:  JS / CSS / SASS / HTML / WEBPACK / GIT
+Skills:  JS / CSS / SASS / HTML / WEBPACK / GIT / TS / REACT
 
 [![codewars](https://www.codewars.com/users/rsschool_910cc37439e5b712/badges/small)](https://www.codewars.com/users/rsschool_910cc37439e5b712) 
 
